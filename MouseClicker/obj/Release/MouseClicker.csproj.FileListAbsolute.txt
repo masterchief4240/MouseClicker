@@ -1,0 +1,14 @@
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\bin\Release\MouseClicker.exe.config
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\bin\Release\MouseClicker.exe.manifest
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\bin\Release\MouseClicker.application
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\bin\Release\MouseClicker.exe
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\bin\Release\MouseClicker.pdb
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.Form1.resources
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.Properties.Resources.resources
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.exe.manifest
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.application
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.exe
+C:\Users\matth\source\repos\MouseClicker\MouseClicker\obj\Release\MouseClicker.pdb
