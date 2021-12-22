@@ -91,7 +91,7 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Iconsmind-Outline-Mouse-2.ico</ApplicationIcon>
+    <ApplicationIcon>mouseicon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>
@@ -157,6 +157,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Iconsmind-Outline-Mouse-2.ico" />
+    <Content Include="mouseicon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
